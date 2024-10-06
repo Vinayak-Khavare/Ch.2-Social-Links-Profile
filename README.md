@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Vinayak-Khavare/Ch.3-Social-Links-Profile)
+- Live Site URL: [Live Site](https://vinayak-khavare.github.io/Ch.3-Social-Links-Profile/)
 
 ## My process
 
