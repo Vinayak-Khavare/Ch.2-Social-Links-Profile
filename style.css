@@ -81,4 +81,6 @@ body {
     margin: 10px;
     background-color: hsl(0, 0%, 8%);
     transform: translateY(-3px);
+    font-style: none;
+    text-decoration: none;
 }
