@@ -62,7 +62,7 @@ body {
     margin-bottom: 14px;
 }
 
-.box span {
+.box a {
     display: flex;
     margin: 8px;
     padding: 10px 0;
@@ -72,4 +72,11 @@ body {
     justify-content: center;
     align-items: center;
     font-weight: 500;
+    color: hsl(0, 0%, 100%);
+}
+
+.box a:hover {
+    margin: 10px;
+    background-color: hsl(0, 0%, 8%);
+    transform: translateY(-3px);
 }
