@@ -74,6 +74,7 @@ body {
     font-weight: 500;
     color: hsl(0, 0%, 100%);
     font-style: none;
+    text-decoration: none;
 }
 
 .box a:hover {
